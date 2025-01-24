@@ -6,6 +6,7 @@ nav.nav_menu.active {
     top: 5.9rem;
 }
 
+
 /* Home */
 
 .image_home {
@@ -26,6 +27,7 @@ nav.nav_menu.active {
 .home_text-2 {
     font-size: 3.6rem;
 }
+
 
 /* Sobre mi */
 
@@ -60,11 +62,13 @@ nav.nav_menu.active {
     margin-top: 2rem;
 }
 
+
 /* Habilidades */
 
 .cards_container--habilidades {
     column-gap: 4rem;
 }
+
 
 /* Formación */
 
@@ -77,6 +81,7 @@ nav.nav_menu.active {
     margin: 0 2rem 3rem 2rem;
 }
 
+
 /* Proyectos */
 
 .cards--proyectos {
@@ -87,7 +92,9 @@ nav.nav_menu.active {
     width: 20.6rem;
 }
 
+
 /* Contacto */
+
 .container--contacto {
     margin: 0 auto;
     width: 80%;
